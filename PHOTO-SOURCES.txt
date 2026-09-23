@@ -1,0 +1,12 @@
+PHOTO SOURCES — hs-038-performance Performance Plumbing & Rooter (Wave 8 2026-09-23 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — residential plumbing pipes/valves (verified; NOT window cleaner)
+services-trade.jpg — pipes/fittings set (verified)
+job041-* — pipe/fitting B/A typical of this kind of job (verified)
+job-elec-* slots — faucet/fixtures + under-sink (verified)
+job052-* — copper/fixture support typical (verified)
+people-* — tools/toolbox/crew — NOT owner face
+coverage-house.jpg — residential exterior
+Rejected: window cleaner, stock faces, workers-as-pipes mislabel — not used
+Sources: Wave6/7 Unsplash/Pexels verified 2026-09-23 PT + prior Wave library
