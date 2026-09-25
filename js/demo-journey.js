@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing repair, water heater work, and rooter service across San Bernardino and the Inland Empire. You get a fixed itemised quote before we start, Jeffrey as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Plumbing, water heaters, and rooter service across San Bernardino and the Inland Empire. Jeffrey looks at the problem first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Plumbing and sprinklers,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Drains and water heaters,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Plumbing repair (written programme)';
+          serviceFirst.textContent = 'Drain cleaning and rooter (written price)';
         }
       }
     }
