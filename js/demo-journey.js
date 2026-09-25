@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing, water heaters, and rooter service across San Bernardino and the Inland Empire. Jeffrey looks at the problem first and puts the price in writing.';
+            'Plumbing, water heaters, and rooter service in San Bernardino. Jeffrey looks at the problem first and puts the price in writing.';
         }
       }
     },
